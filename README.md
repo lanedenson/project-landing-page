@@ -1,4 +1,4 @@
-# project-landing-page
+# Project Landing Page
 
 Don’t forget to commit early & often! You can reference the Commit Message lesson here!
 
