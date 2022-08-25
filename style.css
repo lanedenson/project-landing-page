@@ -1,5 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body {
+    display: flex;
+    flex-direction: column;
     font-family: Roboto, sans-serif;
+}
+
+.header, 
+.hero {
+    background-color: #1f2937;
+    color: white;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.pullquote {
+    background-color: #ccc;
+    font-style: italic;
+    font-size: 32px;
+    padding: 64px;
+}
+
+.footer {
+
 }
