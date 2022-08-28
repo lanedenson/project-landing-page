@@ -43,6 +43,7 @@ body {
 .hero {
     display: flex;
     align-content: space-between;
+    justify-content: space-between;
     padding: 60px 16px;
 
 }
